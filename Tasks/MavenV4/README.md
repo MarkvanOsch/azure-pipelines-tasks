@@ -47,7 +47,7 @@ Use the next options to manage your `JAVA_HOME` attribute by JDK Version and Pat
 
 - **Run FindBugs :** You can choose to run the FindBugs static code analysis tool, which examines the bytecode of your program for possible bugs. You will receive a code analysis report with the number of violations detected, as well as the original report files if there were any violations.
 
-# test git commit/push for github using zscaler
+# test git commit/push for github using zscaler vpn
 
 
 
